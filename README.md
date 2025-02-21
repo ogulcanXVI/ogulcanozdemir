@@ -17,7 +17,7 @@
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![profileviews](https://komarev.com/ghpvc/?username=emrekaradag11&label=Profile%20views&color=0e75b6&style=flat)
+![profileviews](https://komarev.com/ghpvc/?username=ogulcanxvi&label=Profile%20views&color=0e75b6&style=flat)
 
 
 <h3 align="left">Connect with me :link:</h3>
